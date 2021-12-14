@@ -12,7 +12,7 @@ func TestFraction(t *testing.T) {
 	f := fraction.Fraction{n, d}
 
 	if f.Numerator != n {
-		t.Errorf("f.Numberator = %d; want %d", f.Numerator, n)
+		t.Errorf("f.Numerator = %d; want %d", f.Numerator, n)
 	}
 
 	if f.Denominator != d {

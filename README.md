@@ -1,7 +1,5 @@
 # fractions [![Go Reference](https://pkg.go.dev/badge/github.com/jason-ball/fraction.svg)](https://pkg.go.dev/github.com/jason-ball/fraction)
 
----
-
 A simple fraction library for Go. Created to teach myself Go modules.
 
 ## How to use:

@@ -1,4 +1,4 @@
-# fractions [![Go Reference](https://pkg.go.dev/badge/github.com/jason-ball/fraction.svg)](https://pkg.go.dev/github.com/jason-ball/fraction) [![Go](https://github.com/jason-ball/fraction/actions/workflows/go.yml/badge.svg?branch=main)](https://github.com/jason-ball/fraction/actions/workflows/go.yml)
+# fraction [![Go Reference](https://pkg.go.dev/badge/github.com/jason-ball/fraction.svg)](https://pkg.go.dev/github.com/jason-ball/fraction) [![Go](https://github.com/jason-ball/fraction/actions/workflows/go.yml/badge.svg?branch=main)](https://github.com/jason-ball/fraction/actions/workflows/go.yml)
 
 A simple fraction library for Go. Created to teach myself Go modules.
 

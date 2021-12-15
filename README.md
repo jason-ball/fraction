@@ -5,7 +5,7 @@ A simple fraction library for Go. Created to teach myself Go modules.
 ## How to use:
 
 ```go
-import "github.com/jason-ball/fractions"
+import "github.com/jason-ball/fraction"
 
 func main() {
     // Create two new fractions
